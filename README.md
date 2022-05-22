@@ -100,7 +100,7 @@ phần 2: https://www.youtube.com/watch?v=4Riy1c6wl-E
 
 • Kết luận:
 
-Đây là 1 game cơ bản nhưng vẫn đầy đủ các chức năng cần thiết để người dùng có thế trải nghiệm 1 cách thoải mái nhất, giàu tính giải trí và rèn tính kiên trì, nhẫn nại cùng với sự thú vị cho người chơi
+Đây là 1 game cơ bản nhưng vẫn đầy đủ các chức năng cần thiết để người dùng có thể trải nghiệm 1 cách thoải mái nhất, giàu tính giải trí và rèn tính kiên trì, nhẫn nại cùng với sự thú vị cho người chơi
 
 • Hướng phát triển:
 

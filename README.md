@@ -2,11 +2,11 @@
 
 1. Hướng dẫn cài đặt: cách lấy chương trình về, tất cả các câu lệnh, cài đặt để có thể chạy được chương trình
 
-https://pie-cheque-188.notion.site/C-i-t-h-a-C-Windows-ef0a99a8dcae4dae86a39dc1cbc35980
-
 Lấy chương trình về: Fork repo về tài khoản GitHub và Clone code về
 
 Vào Terminal gõ lệnh mingw32-make và .\main.exe để chơi thử
+
+https://pie-cheque-188.notion.site/C-i-t-h-a-C-Windows-ef0a99a8dcae4dae86a39dc1cbc35980
 
 2. Mô tả chung về trò chơi, các ý tưởng chính
  

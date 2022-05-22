@@ -45,7 +45,7 @@ int main(int argc, char *args[])
             // More difficult
             if (score >= (n * 10))
             {
-                jump += 0.2;
+                jump += 0.1;
                 n++;
             }
 

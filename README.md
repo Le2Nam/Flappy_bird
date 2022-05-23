@@ -2,11 +2,13 @@
 
 1. Hướng dẫn cài đặt: cách lấy chương trình về, tất cả các câu lệnh, cài đặt để có thể chạy được chương trình
 
+Tải xuống đầy đủ VS Code (https://code.visualstudio.com) và các thư viện SDL2(https://www.libsdl.org/download-2.0.php) và tải (SDL2-devel-2.0.22-mingw.tar.gz), SDL2_image(https://www.libsdl.org/projects/SDL_image/) và tải (SDL2_image-devel-2.0.5-mingw.tar.gz), SDL2_ttf(https://www.libsdl.org/projects/SDL_ttf/release/) và tải (SDL2_ttf-devel-2.0.18-mingw.tar.gz) SDL2_mixer(https://www.libsdl.org/projects/SDL_mixer/) và tải ( SDL2_mixer-devel-2.0.4-mingw.tar.gz) . Cài đặt MingGW-W64(https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/7.3.0/threads-win32/seh/x86_64-7.3.0-release-win32-seh-rt_v5-rev0.7z/download)
+
+tham khảo https://pie-cheque-188.notion.site/C-i-t-h-a-C-Windows-ef0a99a8dcae4dae86a39dc1cbc35980
+
 Lấy chương trình về: Fork repo về tài khoản GitHub và Clone code về
 
 Vào Terminal gõ lệnh mingw32-make và .\main.exe để chơi thử
-
-https://pie-cheque-188.notion.site/C-i-t-h-a-C-Windows-ef0a99a8dcae4dae86a39dc1cbc35980
 
 2. Mô tả chung về trò chơi, các ý tưởng chính
  

@@ -10,9 +10,7 @@ https://pie-cheque-188.notion.site/C-i-t-h-a-C-Windows-ef0a99a8dcae4dae86a39dc1c
 
 2. Mô tả chung về trò chơi, các ý tưởng chính
  
-Khéo léo di chuyển con chim đi qua các ống nước và nhận về điểm của người chơi.
-
-Con chim sẽ rơi xuống theo quán tính, dùng phím Space hoặc mũi tên lên để điều khiển con chim bay lên, điểm người chơi sẽ hiện suốt quá trình chơi.
+Con chim sẽ rơi xuống theo quán tính, dùng phím Space hoặc mũi tên lên để khéo léo điều khiển con chim bay lên nhằm di chuyển con chim đi qua các ống nước, điểm người chơi sẽ hiện suốt quá trình chơi.
 
 Mỗi lần thua sẽ hiện điểm số cao nhất đã đạt được cùng nút cho phép người chơi chơi lại.
 
@@ -108,7 +106,7 @@ Hướng phát triển tiếp theo của game :
   
    +)	Tạo một menu hoàn chỉnh, đẹp mắt cho phép vào chơi, exit game cùng các tính năng phụ khác
     
-   +)     Thực hiện được việc pause giữa game và nút cho phép trở về menu
+   +) Thực hiện được việc pause giữa game và nút cho phép trở về menu
   
    +)	Tiếp tục tối ưu các biến trong game, không để biến cố định để người nâng cấp game có thể tiện sửa chữa và tăng độ khó
    
